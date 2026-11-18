@@ -1,0 +1,9 @@
+.env
+*.env
+venv/
+__pycache__/
+.pytest_cache/
+*.log
+sheetlock.local.json
+*-backup/
+_trava-rodada.json
